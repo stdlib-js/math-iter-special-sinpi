@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/math-iter-special-sinpi",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the sine of each iterated value times π.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-sinpi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "math",
+    "mathematics",
+    "sine",
+    "sin",
+    "pi",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle",
+    "math.sin",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
