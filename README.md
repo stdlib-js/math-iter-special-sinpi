@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterSinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-sinpi@esm/index.mjs';
+import iterSinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-sinpi@v0.2.1-esm/index.mjs';
 ```
 
 #### iterSinpi( iterator )
@@ -116,7 +116,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-randu@esm/index.mjs';
-import iterSinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-sinpi@esm/index.mjs';
+import iterSinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-sinpi@v0.2.1-esm/index.mjs';
 
 // Create a seeded iterator for generating pseudorandom numbers:
 var rand = randu({
